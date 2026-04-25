@@ -1,5 +1,6 @@
 Système de recommandation hybride – Filtrage de contenu & collaboratif
-📌 Présentation du projet
+
+Présentation du projet
 
 Ce projet implémente un système de recommandation d’articles d’actualité de bout en bout, basé sur plusieurs approches complémentaires du machine learning.
 
