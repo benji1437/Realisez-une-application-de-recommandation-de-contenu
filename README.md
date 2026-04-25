@@ -14,16 +14,19 @@ Utilisation des embeddings d’articles
 Construction d’un profil utilisateur pondéré
 Calcul de similarité (cosine similarity)
 Recommandation d’articles similaires à ceux déjà consultés
+
 2. 👥 Filtrage collaboratif (SVD++)
 Modèle basé sur la librairie Surprise
 Apprentissage des facteurs latents utilisateurs / articles
 Exploitation des interactions implicites (clics)
 Optimisation via RMSE
+
 3. ⚡ Modèles implicites de factorisation matricielle
 ALS (Alternating Least Squares)
 BPR (Bayesian Personalized Ranking)
 LMF (Logistic Matrix Factorization)
 Utilisation de matrices creuses utilisateur–article
+
 4. 🔀 Modèle hybride
 Combinaison du filtrage de contenu et collaboratif
 Fusion pondérée des scores
