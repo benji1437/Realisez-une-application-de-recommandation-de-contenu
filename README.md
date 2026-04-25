@@ -10,19 +10,19 @@ le contenu des articles (embeddings)
 le comportement des utilisateurs (clics)
 les interactions implicites
 ⚙️ Approches utilisées
-1. 🔍 Filtrage basé sur le contenu (Content-Based Filtering)
+1. 🔀 Filtrage basé sur le contenu (Content-Based Filtering)
 Utilisation des embeddings d’articles
 Construction d’un profil utilisateur pondéré
 Calcul de similarité (cosine similarity)
 Recommandation d’articles similaires à ceux déjà consultés
 
-2. 👥 Filtrage collaboratif (SVD++)
+2. 🔀 Filtrage collaboratif (SVD++)
 Modèle basé sur la librairie Surprise
 Apprentissage des facteurs latents utilisateurs / articles
 Exploitation des interactions implicites (clics)
 Optimisation via RMSE
 
-3. ⚡ Modèles implicites de factorisation matricielle
+3. 🔀 Modèles implicites de factorisation matricielle
 ALS (Alternating Least Squares)
 BPR (Bayesian Personalized Ranking)
 LMF (Logistic Matrix Factorization)
