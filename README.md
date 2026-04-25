@@ -1,4 +1,4 @@
-Système de recommandation hybride – Filtrage de contenu & collaboratif
+# Système de recommandation hybride – Filtrage de contenu & collaboratif
 
 Présentation du projet
 
