@@ -31,8 +31,10 @@ Amélioration de la pertinence des recommandations
 📊 Évaluation des modèles
 
 Les performances sont évaluées à l’aide de plusieurs métriques :
-
 RMSE (SVD++)
+
 Precision@K
+
 MAP@K (Mean Average Precision)
+
 nDCG@K (qualité de classement)
